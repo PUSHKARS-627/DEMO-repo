@@ -2,7 +2,7 @@
 
 .firstnavmenu{
     list-style-type: none;
-    margin-right: 200px;
+    margin-right: 250px;
     position: static;
     top: 0%;
     
@@ -46,7 +46,7 @@
     font-weight: 400;
 }
 .firstnav{
-    height: 34px;
+    height: 35px;
     background-color: #cd2927;;
     margin-top: -20px;
     margin-left: -7.0px;
